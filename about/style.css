@@ -1,0 +1,67 @@
+.container{
+	width:1200px;
+	margin:0 auto;
+	background-color:#e0e0d1;
+}
+body{
+	margin:0 auto;
+	background-color:#a44314;
+}
+.one{
+	text-align:center;
+	color:white;
+	font-size:400%;
+	text-decoration:underline;
+	font-style:italic;
+
+}
+.two{
+	text-align:center;
+	text-decoration:underline;
+	font-style:italic;
+	
+	  font-family: "Heather BTN", cursive;
+    font-weight: 700;
+    color: #991f00;
+    font-size: 50px;
+    line-height: 1.29em;
+}
+.three{
+	    color: #693e12;
+		font-style:italic;
+		font-weight:bold;
+		
+}
+.four{
+	float:right;
+}
+.five{
+	font-style:italic;
+	
+	  font-family: "Heather BTN", cursive;
+    font-weight: 700;
+    color: #ff8304;
+    font-size: 32.0px;
+    line-height: 1.99em;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 0px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+	background-color: #e7e7e7;
+    color: black;
+    border: 2px solid #555555;
+}
+
+
+.button1:hover {
+    background-color: #555555;
+    color: white;
+}
